@@ -1,0 +1,294 @@
+.header {
+	background-image: url(../images/header.jpg);
+	max-width: 1366px;
+	width: 100%;
+	height: 324px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.log-nav {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	margin: 0 auto;
+	-ms-flex-pack: distribute;
+	    justify-content: space-around;
+}
+.navigation {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	max-width: 567px;
+	width: 100%;
+	height: 20px;
+}
+.logo {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	padding-top: 30px;
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+ul {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	margin-top: 32px;
+}
+.nav-home {
+	font-family: Poppins;
+	font-weight: SemiBold;
+	font-size: 12px;
+	vertical-align: top;
+	color: #D9F0FF;
+	padding-right: 49px;
+}
+.nav-rooms {
+	font-family: Poppins;
+	font-weight: SemiBold;
+	font-size: 12px;
+	vertical-align: top;
+	color: #D9F0FF;
+	padding-right: 60px;
+}
+.nav-restaurant {
+	font-family: Poppins;
+	font-weight: SemiBold;
+	font-size: 12px;
+	vertical-align: top;
+	color: #D9F0FF;
+	padding-right: 47px;
+}
+.nav-about,
+.nav-blog {
+	font-family: Poppins;
+	font-weight: SemiBold;
+	font-size: 12px;
+	vertical-align: top;
+	color: #D9F0FF;
+	padding-right: 49px;
+}
+.nav-contact {
+	font-family: Poppins;
+	font-weight: SemiBold;
+	font-size: 12px;
+	vertical-align: top;
+	color: #D9F0FF;
+}
+.header-text {
+	padding-top: 96px;
+	padding-bottom: 119px;
+	padding-left: 139px;
+	font-family: Poppins;
+	font-weight: ExtraBold;
+	font-size: 42px;
+	color: #D9F0FF;
+}
+.sec-div1 {
+	max-width: 444px;
+	width: 100%;
+	/*height: 388px;*/
+	/*margin: 128px 108px 125px 139px;*/
+	margin-top: 128px;
+	margin-bottom: 125px;
+}
+.h3 {
+	font-family: Poppins;
+	font-weight: Bold;
+	font-size: 14px;
+	color: #5863F8;
+}
+.h1 {
+	width: 374px;
+	height: 115px;
+	font-family: Poppins;
+	font-weight: ExtraBold;
+	font-size: 42px;
+	color: #000000;
+	padding-top: 1px;
+}
+.h3-2 {
+	width: 444px;
+	height: 78px;
+	font-family: Poppins;
+	font-weight: Medium;
+	font-size: 16px;
+	color: #000000;
+	padding-top: 10px;
+}
+.h4 {
+	width: 444px;
+	height: 84px;
+	font-family: Poppins;
+	font-weight: Regular;
+	font-size: 14px;
+	color: #000000;
+	padding-top: 10px;
+}
+.h3-3 {
+	font-family: Poppins;
+	font-weight: Regular;
+	font-size: 14px;
+	color: #FFFFFF;
+	padding: 15px 65px 15px 45px;
+}
+.blue-back {
+	width: 184px;
+	height: 56px;
+	background-color: #5863F8;
+}
+.sec-div2 {
+	width: 536px;
+	height: 461px;
+	/*margin: 90px 139px 90px 108px;*/
+	margin-top: 90px;
+	margin-bottom: 90px;
+	margin-left: 108px;
+}
+.image1 {
+	/*display: inline-block;*/
+	max-width: 260px;
+	width: 100%;
+	height: 185px;
+}
+.image2 {
+	/*display: inline-block;*/
+	max-width: 260px;
+	width: 100%;
+	height: 185px;
+	padding-left: 16px;
+}
+.image3 {
+	max-width: 536px;
+	width: 100%;
+	height: 260px;
+	padding-top: 16px;
+}
+.section {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-pack: distribute;
+	    justify-content: space-around;
+	margin: 0 auto;
+}
+.section2 {
+	background-image: url(../images/Section2-bg.jpg);
+	max-width: 1366px;
+	width: 100%;
+	height: 612px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.h3-4 {
+	padding-top: 92px;
+	padding-left: 139px;
+	font-family: Poppins;
+	font-weight: Bold;
+	font-size: 14px;
+	color: #5863F8;
+}
+.h1-2 {
+	width: 376px;
+	height: 115px;
+	padding-left: 139px;
+	font-family: Poppins;
+	font-weight: ExtraBold;
+	font-size: 35px; /*XD-ში 42 ფიქსელი წერია მაგრამ საიტზე არ ჯდება კარგად*/
+	color: #FFFFFF;
+}
+.sec2-div1 {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	    flex-wrap: wrap;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	max-width: 1088px;
+	width: 100%;
+	height: 260px;
+	margin: 0 auto;
+	margin-top: 34px;
+}
+.div1,
+.div2,
+.div3 {
+	width: 260px;
+	height: 260px;
+	background-color: #FFFFFF;
+	margin-right: 16px;
+}
+.div4 {
+	width: 260px;
+	height: 260px;
+	background-color: #FFFFFF;
+}
+.blue-back2 {
+	width: 59px;
+	height: 58px;
+	border-radius: 29px;
+	background-color: #5863F8;
+	margin: 0 auto;
+	margin-top: 27px;
+	margin-bottom: 15px;
+}
+.house {
+	margin: 13px 13.3px 12.3px 13px;
+}
+.h2 {
+	margin: 0 auto;
+	width: 166px;
+	height: 52px;
+	font-family: Poppins;
+	font-weight: SemiBold;
+	font-size: 18px;
+	color: #000000;
+	text-align: center;
+}
+.paragraph {
+	width: 221px;
+	height: 62px;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 26px;
+	font-family: Poppins;
+	font-weight: Medium;
+	font-size: 14px;
+	color: #B1B1B1;
+	text-align: center;
+}
+.h2-2 {
+	margin: 0 auto;
+	width: 160px;
+	height: 52px;
+	font-family: Poppins;
+	font-weight: SemiBold;
+	font-size: 18px;
+	color: #000000;
+	text-align: center;
+}
+.h2-3 {
+	margin: 0 auto;
+	width: 156px;
+	height: 52px;
+	font-family: Poppins;
+	font-weight: SemiBold;
+	font-size: 18px;
+	color: #000000;
+	text-align: center;
+}
+.h2-4 {
+	margin: 0 auto;
+	width: 188px;
+	height: 52px;
+	font-family: Poppins;
+	font-weight: SemiBold;
+	font-size: 18px;
+	color: #000000;
+	text-align: center;
+}
